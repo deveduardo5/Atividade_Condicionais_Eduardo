@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3 - Aprovação de Aluno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+633365e33b8ad22d8c8e2eeef4229cb8d20f640c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ed62b2320b164901ed7052406b814c71072a6f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("3 - Aprovação de Aluno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3 - Aprovação de Aluno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

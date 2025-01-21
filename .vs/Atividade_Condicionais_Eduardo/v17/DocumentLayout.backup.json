@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EA12116-6BCD-4CED-8832-A473B87E0791}|Atividade_Condicionais_Eduardo\\Atividade_Condicionais_Eduardo.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\atividade_condicionais_eduardo\\atividade_condicionais_eduardo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EA12116-6BCD-4CED-8832-A473B87E0791}|Atividade_Condicionais_Eduardo\\Atividade_Condicionais_Eduardo.csproj|solutionrelative:atividade_condicionais_eduardo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C5D7C1E-C427-4440-BC50-9539CA1B2ADD}|9 - Dia da Semana (usando if-else)\\9 - Dia da Semana (usando if-else).csproj|c:\\users\\eduardo.asouza23\\source\\repos\\atividade_condicionais_eduardo\\9 - dia da semana (usando if-else)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5D7C1E-C427-4440-BC50-9539CA1B2ADD}|9 - Dia da Semana (usando if-else)\\9 - Dia da Semana (usando if-else).csproj|solutionrelative:9 - dia da semana (usando if-else)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\Atividade_Condicionais_Eduardo\\Program.cs",
-              "RelativeDocumentMoniker": "Atividade_Condicionais_Eduardo\\Program.cs",
-              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\Atividade_Condicionais_Eduardo\\Program.cs",
-              "RelativeToolTip": "Atividade_Condicionais_Eduardo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\9 - Dia da Semana (usando if-else)\\Program.cs",
+              "RelativeDocumentMoniker": "9 - Dia da Semana (usando if-else)\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\9 - Dia da Semana (usando if-else)\\Program.cs*",
+              "RelativeToolTip": "9 - Dia da Semana (usando if-else)\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T23:15:53.881Z",
+              "WhenOpened": "2025-01-20T22:52:36.414Z",
               "EditorCaption": ""
             }
           ]

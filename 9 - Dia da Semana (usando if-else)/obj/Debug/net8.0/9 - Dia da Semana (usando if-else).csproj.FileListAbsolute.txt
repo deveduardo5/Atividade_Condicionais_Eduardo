@@ -1,0 +1,15 @@
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\bin\Debug\net8.0\9 - Dia da Semana (usando if-else).exe
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\bin\Debug\net8.0\9 - Dia da Semana (usando if-else).deps.json
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\bin\Debug\net8.0\9 - Dia da Semana (usando if-else).runtimeconfig.json
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\bin\Debug\net8.0\9 - Dia da Semana (usando if-else).dll
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\bin\Debug\net8.0\9 - Dia da Semana (usando if-else).pdb
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\obj\Debug\net8.0\9 - Dia da Semana (usando if-else).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\obj\Debug\net8.0\9 - Dia da Semana (usando if-else).AssemblyInfoInputs.cache
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\obj\Debug\net8.0\9 - Dia da Semana (usando if-else).AssemblyInfo.cs
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\obj\Debug\net8.0\9 - Dia da Semana (usando if-else).csproj.CoreCompileInputs.cache
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\obj\Debug\net8.0\9 - Dia da Semana (usando if-else).sourcelink.json
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\obj\Debug\net8.0\9 - Dia da Semana (usando if-else).dll
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\obj\Debug\net8.0\refint\9 - Dia da Semana (usando if-else).dll
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\obj\Debug\net8.0\9 - Dia da Semana (usando if-else).pdb
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\obj\Debug\net8.0\9 - Dia da Semana (usando if-else).genruntimeconfig.cache
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\9 - Dia da Semana (usando if-else)\obj\Debug\net8.0\ref\9 - Dia da Semana (usando if-else).dll

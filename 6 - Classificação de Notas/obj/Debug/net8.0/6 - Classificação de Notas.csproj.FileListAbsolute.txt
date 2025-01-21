@@ -1,0 +1,15 @@
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\bin\Debug\net8.0\6 - Classificação de Notas.exe
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\bin\Debug\net8.0\6 - Classificação de Notas.deps.json
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\bin\Debug\net8.0\6 - Classificação de Notas.runtimeconfig.json
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\bin\Debug\net8.0\6 - Classificação de Notas.dll
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\bin\Debug\net8.0\6 - Classificação de Notas.pdb
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\obj\Debug\net8.0\6 - Classificação de Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\obj\Debug\net8.0\6 - Classificação de Notas.AssemblyInfoInputs.cache
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\obj\Debug\net8.0\6 - Classificação de Notas.AssemblyInfo.cs
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\obj\Debug\net8.0\6 - Classificação de Notas.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\obj\Debug\net8.0\6 - Classificação de Notas.sourcelink.json
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\obj\Debug\net8.0\6 - Classificação de Notas.dll
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\obj\Debug\net8.0\refint\6 - Classificação de Notas.dll
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\obj\Debug\net8.0\6 - Classificação de Notas.pdb
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\obj\Debug\net8.0\6 - Classificação de Notas.genruntimeconfig.cache
+C:\Users\eduardo.asouza23\source\repos\Atividade_Condicionais_Eduardo\6 - Classificação de Notas\obj\Debug\net8.0\ref\6 - Classificação de Notas.dll

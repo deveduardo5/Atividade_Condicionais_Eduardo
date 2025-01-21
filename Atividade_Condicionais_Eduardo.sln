@@ -3,17 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade_Condicionais_Eduardo", "Atividade_Condicionais_Eduardo\Atividade_Condicionais_Eduardo.csproj", "{7EA12116-6BCD-4CED-8832-A473B87E0791}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade_Condicionais_Eduardo", "Atividade_Condicionais_Eduardo\Atividade_Condicionais_Eduardo.csproj", "{7EA12116-6BCD-4CED-8832-A473B87E0791}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1- Verificação de Paridade", "1- Verificação de Paridade\1- Verificação de Paridade.csproj", "{C5BBC47C-2452-4DD0-B4B8-E7403354EECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1- Verificação de Paridade", "1- Verificação de Paridade\1- Verificação de Paridade.csproj", "{C5BBC47C-2452-4DD0-B4B8-E7403354EECE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - Número Positivo ou Negativo", "2 - Número Positivo ou Negativo\2 - Número Positivo ou Negativo.csproj", "{96456208-03C7-43DE-AEA1-70B507E0B26B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2 - Número Positivo ou Negativo", "2 - Número Positivo ou Negativo\2 - Número Positivo ou Negativo.csproj", "{96456208-03C7-43DE-AEA1-70B507E0B26B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 - Aprovação de Aluno", "3 - Aprovação de Aluno\3 - Aprovação de Aluno.csproj", "{5915C348-8116-4B53-8A8E-9C91F238A58E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3 - Aprovação de Aluno", "3 - Aprovação de Aluno\3 - Aprovação de Aluno.csproj", "{5915C348-8116-4B53-8A8E-9C91F238A58E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 - Intervalo de Valores", "4 - Intervalo de Valores\4 - Intervalo de Valores.csproj", "{56BD0027-B54A-4366-B2EA-9AFA563285A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4 - Intervalo de Valores", "4 - Intervalo de Valores\4 - Intervalo de Valores.csproj", "{56BD0027-B54A-4366-B2EA-9AFA563285A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 - Verificação de Idade", "5 - Verificação de Idade\5 - Verificação de Idade.csproj", "{9F02366D-5699-4878-B3F0-EF9A926CA849}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5 - Verificação de Idade", "5 - Verificação de Idade\5 - Verificação de Idade.csproj", "{9F02366D-5699-4878-B3F0-EF9A926CA849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6 - Classificação de Notas", "6 - Classificação de Notas\6 - Classificação de Notas.csproj", "{066545E8-291D-43E9-9AA5-81188E1AB7C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7 - Comparação de Números", "7 - Comparação de Números\7 - Comparação de Números.csproj", "{318150EE-290A-41D3-A2FB-05F958FA66ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8 - Verificação de Votação", "8 - Verificação de Votação\8 - Verificação de Votação.csproj", "{F6E91C70-6978-4575-BC55-100E47779666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9 - Dia da Semana (usando if-else)", "9 - Dia da Semana (usando if-else)\9 - Dia da Semana (usando if-else).csproj", "{1C5D7C1E-C427-4440-BC50-9539CA1B2ADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - Cálculo do Desconto", "10 - Cálculo do Desconto\10 - Cálculo do Desconto.csproj", "{948E33C5-08F3-49F3-9832-AA39084B8DAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +55,26 @@ Global
 		{9F02366D-5699-4878-B3F0-EF9A926CA849}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F02366D-5699-4878-B3F0-EF9A926CA849}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F02366D-5699-4878-B3F0-EF9A926CA849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{066545E8-291D-43E9-9AA5-81188E1AB7C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066545E8-291D-43E9-9AA5-81188E1AB7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066545E8-291D-43E9-9AA5-81188E1AB7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066545E8-291D-43E9-9AA5-81188E1AB7C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318150EE-290A-41D3-A2FB-05F958FA66ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318150EE-290A-41D3-A2FB-05F958FA66ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318150EE-290A-41D3-A2FB-05F958FA66ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318150EE-290A-41D3-A2FB-05F958FA66ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E91C70-6978-4575-BC55-100E47779666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E91C70-6978-4575-BC55-100E47779666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E91C70-6978-4575-BC55-100E47779666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E91C70-6978-4575-BC55-100E47779666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5D7C1E-C427-4440-BC50-9539CA1B2ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5D7C1E-C427-4440-BC50-9539CA1B2ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5D7C1E-C427-4440-BC50-9539CA1B2ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5D7C1E-C427-4440-BC50-9539CA1B2ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948E33C5-08F3-49F3-9832-AA39084B8DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948E33C5-08F3-49F3-9832-AA39084B8DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948E33C5-08F3-49F3-9832-AA39084B8DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948E33C5-08F3-49F3-9832-AA39084B8DAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

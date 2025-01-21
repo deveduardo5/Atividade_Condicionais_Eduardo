@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F02366D-5699-4878-B3F0-EF9A926CA849}|5 - Verifica\u00E7\u00E3o de Idade\\5 - Verifica\u00E7\u00E3o de Idade.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\atividade_condicionais_eduardo\\5 - verifica\u00E7\u00E3o de idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F02366D-5699-4878-B3F0-EF9A926CA849}|5 - Verifica\u00E7\u00E3o de Idade\\5 - Verifica\u00E7\u00E3o de Idade.csproj|solutionrelative:5 - verifica\u00E7\u00E3o de idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{948E33C5-08F3-49F3-9832-AA39084B8DAF}|10 - C\u00E1lculo do Desconto\\10 - C\u00E1lculo do Desconto.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\atividade_condicionais_eduardo\\10 - c\u00E1lculo do desconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948E33C5-08F3-49F3-9832-AA39084B8DAF}|10 - C\u00E1lculo do Desconto\\10 - C\u00E1lculo do Desconto.csproj|solutionrelative:10 - c\u00E1lculo do desconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56BD0027-B54A-4366-B2EA-9AFA563285A0}|4 - Intervalo de Valores\\4 - Intervalo de Valores.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\atividade_condicionais_eduardo\\4 - intervalo de valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56BD0027-B54A-4366-B2EA-9AFA563285A0}|4 - Intervalo de Valores\\4 - Intervalo de Valores.csproj|solutionrelative:4 - intervalo de valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5915C348-8116-4B53-8A8E-9C91F238A58E}|3 - Aprova\u00E7\u00E3o de Aluno\\3 - Aprova\u00E7\u00E3o de Aluno.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\atividade_condicionais_eduardo\\3 - aprova\u00E7\u00E3o de aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5915C348-8116-4B53-8A8E-9C91F238A58E}|3 - Aprova\u00E7\u00E3o de Aluno\\3 - Aprova\u00E7\u00E3o de Aluno.csproj|solutionrelative:3 - aprova\u00E7\u00E3o de aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96456208-03C7-43DE-AEA1-70B507E0B26B}|2 - N\u00FAmero Positivo ou Negativo\\2 - N\u00FAmero Positivo ou Negativo.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\atividade_condicionais_eduardo\\2 - n\u00FAmero positivo ou negativo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96456208-03C7-43DE-AEA1-70B507E0B26B}|2 - N\u00FAmero Positivo ou Negativo\\2 - N\u00FAmero Positivo ou Negativo.csproj|solutionrelative:2 - n\u00FAmero positivo ou negativo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5BBC47C-2452-4DD0-B4B8-E7403354EECE}|1- Verifica\u00E7\u00E3o de Paridade\\1- Verifica\u00E7\u00E3o de Paridade.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\atividade_condicionais_eduardo\\1- verifica\u00E7\u00E3o de paridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5BBC47C-2452-4DD0-B4B8-E7403354EECE}|1- Verifica\u00E7\u00E3o de Paridade\\1- Verifica\u00E7\u00E3o de Paridade.csproj|solutionrelative:1- verifica\u00E7\u00E3o de paridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EA12116-6BCD-4CED-8832-A473B87E0791}|Atividade_Condicionais_Eduardo\\Atividade_Condicionais_Eduardo.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\atividade_condicionais_eduardo\\atividade_condicionais_eduardo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EA12116-6BCD-4CED-8832-A473B87E0791}|Atividade_Condicionais_Eduardo\\Atividade_Condicionais_Eduardo.csproj|solutionrelative:atividade_condicionais_eduardo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C5D7C1E-C427-4440-BC50-9539CA1B2ADD}|9 - Dia da Semana (usando if-else)\\9 - Dia da Semana (usando if-else).csproj|c:\\users\\eduardo.asouza23\\source\\repos\\atividade_condicionais_eduardo\\9 - dia da semana (usando if-else)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5D7C1E-C427-4440-BC50-9539CA1B2ADD}|9 - Dia da Semana (usando if-else)\\9 - Dia da Semana (usando if-else).csproj|solutionrelative:9 - dia da semana (usando if-else)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\1- Verifica\u00E7\u00E3o de Paridade\\Program.cs",
-              "RelativeDocumentMoniker": "1- Verifica\u00E7\u00E3o de Paridade\\Program.cs",
-              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\1- Verifica\u00E7\u00E3o de Paridade\\Program.cs",
-              "RelativeToolTip": "1- Verifica\u00E7\u00E3o de Paridade\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T23:25:05.093Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\5 - Verifica\u00E7\u00E3o de Idade\\Program.cs",
-              "RelativeDocumentMoniker": "5 - Verifica\u00E7\u00E3o de Idade\\Program.cs",
-              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\5 - Verifica\u00E7\u00E3o de Idade\\Program.cs",
-              "RelativeToolTip": "5 - Verifica\u00E7\u00E3o de Idade\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\10 - C\u00E1lculo do Desconto\\Program.cs",
+              "RelativeDocumentMoniker": "10 - C\u00E1lculo do Desconto\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\10 - C\u00E1lculo do Desconto\\Program.cs",
+              "RelativeToolTip": "10 - C\u00E1lculo do Desconto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T00:53:45.757Z",
+              "WhenOpened": "2025-01-20T23:30:47.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\4 - Intervalo de Valores\\Program.cs",
-              "RelativeDocumentMoniker": "4 - Intervalo de Valores\\Program.cs",
-              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\4 - Intervalo de Valores\\Program.cs",
-              "RelativeToolTip": "4 - Intervalo de Valores\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAD1AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\9 - Dia da Semana (usando if-else)\\Program.cs",
+              "RelativeDocumentMoniker": "9 - Dia da Semana (usando if-else)\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\9 - Dia da Semana (usando if-else)\\Program.cs",
+              "RelativeToolTip": "9 - Dia da Semana (usando if-else)\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T00:52:07.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\3 - Aprova\u00E7\u00E3o de Aluno\\Program.cs",
-              "RelativeDocumentMoniker": "3 - Aprova\u00E7\u00E3o de Aluno\\Program.cs",
-              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\3 - Aprova\u00E7\u00E3o de Aluno\\Program.cs",
-              "RelativeToolTip": "3 - Aprova\u00E7\u00E3o de Aluno\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T00:51:02.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\2 - N\u00FAmero Positivo ou Negativo\\Program.cs",
-              "RelativeDocumentMoniker": "2 - N\u00FAmero Positivo ou Negativo\\Program.cs",
-              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\2 - N\u00FAmero Positivo ou Negativo\\Program.cs",
-              "RelativeToolTip": "2 - N\u00FAmero Positivo ou Negativo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T00:49:09.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\Atividade_Condicionais_Eduardo\\Program.cs",
-              "RelativeDocumentMoniker": "Atividade_Condicionais_Eduardo\\Program.cs",
-              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Atividade_Condicionais_Eduardo\\Atividade_Condicionais_Eduardo\\Program.cs",
-              "RelativeToolTip": "Atividade_Condicionais_Eduardo\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T23:15:53.881Z",
+              "WhenOpened": "2025-01-20T22:52:36.414Z",
               "EditorCaption": ""
             }
           ]
